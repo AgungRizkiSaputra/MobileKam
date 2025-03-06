@@ -1,4 +1,7 @@
-![Deskripsi Gambar](https://drive.google.com/uc?export=view&id=1HLqdUJiRGYJ57g-GkPE2XgDz-DKwUBwm)
+![Floating](https://drive.google.com/uc?export=view&id=1esTPEqgsBQsi8CqJwl7pVFUQ1qf4eBh6)
+![ImagePath](https://drive.google.com/uc?export=view&id=1YfabtDfnNUGLPzqLH3w2cV9agFgwLr1u)
+![Hasil1](https://drive.google.com/uc?export=view&id=1W3Ojw0z0K2CWmhsif8bO48EzXw3Z1_eK)
+![Hasil1](https://drive.google.com/uc?export=view&id=1FHdaHVSfVGI51c_KJzL6sa49TZyPdTzf)
 
 
 Untuk mengambil foto dan ada filternya itu harus ubah TakePictureScreen agar mengarah ke PhotoFilterCarousel di bagian floatingActionButton. 
