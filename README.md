@@ -1,5 +1,5 @@
 
-![Screenshotan](https://drive.google.com/drive/folders/1GKYBSXshgE8QM4DcnLtOpkRCSnHTRSYe?usp=drive_link)
+![Screenshotan](https://drive.google.com/file/d/1HLqdUJiRGYJ57g-GkPE2XgDz-DKwUBwm/view?usp=sharing)
 
 Untuk mengambil foto dan ada filternya itu harus ubah TakePictureScreen agar mengarah ke PhotoFilterCarousel di bagian floatingActionButton. 
 Di bagian PhotoFilterCarousel tambahkan imagePath di PhotoFilterCarousel agar untuk menerima gambar dari TakePictureScreen.
