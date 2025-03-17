@@ -1,0 +1,2 @@
+C:/SEMESTER PERKULIAHAN/SEMESTER 6/MOBILE 2/kamera/android/app/.cxx/Debug/43425r39/x86/CMakeFiles/edit_cache.dir
+C:/SEMESTER PERKULIAHAN/SEMESTER 6/MOBILE 2/kamera/android/app/.cxx/Debug/43425r39/x86/CMakeFiles/rebuild_cache.dir
