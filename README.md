@@ -1,14 +1,21 @@
-![Floating](https://drive.google.com/uc?export=view&id=1esTPEqgsBQsi8CqJwl7pVFUQ1qf4eBh6)
-![ImagePath](https://drive.google.com/uc?export=view&id=1YfabtDfnNUGLPzqLH3w2cV9agFgwLr1u)
-![Hasil1](https://drive.google.com/uc?export=view&id=1W3Ojw0z0K2CWmhsif8bO48EzXw3Z1_eK)
-![Hasil1](https://drive.google.com/uc?export=view&id=1FHdaHVSfVGI51c_KJzL6sa49TZyPdTzf)
+# Kamera dan Filter
 
+### GIF
+<img src="https://github.com/AgungRizkiSaputra/MobileKam/blob/main/images/kam.gif"  width="300px">
 
+# Image
+### ImagePath
+<img src="https://github.com/AgungRizkiSaputra/MobileKam/blob/main/images/imagepath.png"  width="300px">
+
+### Floating
+<img src="https://github.com/AgungRizkiSaputra/MobileKam/blob/main/images/floating.png"  width="300px">
+
+## Penjelasan
 Untuk mengambil foto dan ada filternya itu harus ubah TakePictureScreen agar mengarah ke PhotoFilterCarousel di bagian floatingActionButton. 
 Di bagian PhotoFilterCarousel tambahkan imagePath di PhotoFilterCarousel agar untuk menerima gambar dari TakePictureScreen.
 
 
-JAWABAN SOAL 3 DAN 4
+## JAWABAN SOAL 3 DAN 4
 void async adalah 2 konsep yang sering digunakan dalam fungsi asinkron, dan void ini berarti fungsinya cuman jalanin perintah tanpa menghasilkan nilai yang bisa digunaiin lagi di tempat lainnya, dan di bagian async nya sendiri itu fungsinya akan menjalankan operasi asinkron yang butuh waktu untuk selesai kayak contohnya membaca file, melakukan request jaringan atau menunggu timer. kita bisa menggunakan await di dalam dalam fungsi tersebut untuk menunggu hasil dari asinkron tadi.
 
 ============================================================================================
